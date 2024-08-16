@@ -1,0 +1,13 @@
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 400px;
+}
+
+.grid-item{
+    border: 1px solid blue;
+    box-sizing: border-box;
+    width: 25px;
+    height: 25px;
+}
